@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre Mim :
 🔭 Sou Estudante de Sistemas da Informação<br>🌱 Estudando Javascript, Html, css<br>👯 Estou em busca de um Estágio em Front-And<br>💬Gosto de aprender coisas novas
 
 
