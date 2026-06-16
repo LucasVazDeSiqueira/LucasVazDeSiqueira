@@ -1,5 +1,5 @@
 # 💫 Sobre Mim 
-🔭 Sou Estudante de Sistemas da Informação<br>🌱 Estudando Programação<br>👯 Estou em busca de um Estágio em Front-And<br>💬Gosto de aprender coisas novas
+🔭 Sou Formado em Sistemas da Informação<br>🌱 Estudando Programação<br>👯 Estou em busca de um Estágio em Front-And<br>💬Gosto de aprender coisas novas
 
 
 ## 🌐 Socials:
